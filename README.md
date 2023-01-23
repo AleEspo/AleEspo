@@ -33,7 +33,7 @@ Studying: Product management, Project management, Agile, Scrum, Communication, L
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Yoga Home](https://github.com/AleEspo/yoga-project3-client)  
+- 🔭 I’m currently working on [Yoga Home](https://yogahome.netlify.app/)  
   
 
 - 🌱 I’m currently learning Product Management and Agile  
