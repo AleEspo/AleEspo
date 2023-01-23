@@ -39,7 +39,11 @@ Studying: Product management, Project management, Agile, Scrum, Communication, L
 - 🌱 I’m currently learning Product Management and Agile  
   
 
+- 🧑🏼‍🎨 In my previous employment, I used to be an architect (of concrete and bricks)  
+
+
 - ⚡ Fun fact: I studied WebDev because I wanted to support other Yoga teachers like myself  
+
 
 
 </td><td valign="top" width="50%">
