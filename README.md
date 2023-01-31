@@ -33,10 +33,10 @@ Studying: Product management, Project management, Agile, Scrum, Communication, L
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Yoga Home](https://yogahome.netlify.app/)  
+- 🔭 I’m working on [Yoga Home](https://yogahome.netlify.app/)  
   
 
-- 🌱 I’m currently learning Product Management and Agile  
+- 🌱 I’m currently studying Product Management and Agile  
   
 
 - 🧑🏼‍🎨 In my previous employment, I used to be an architect (of concrete and bricks)  
