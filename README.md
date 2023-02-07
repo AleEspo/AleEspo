@@ -13,15 +13,18 @@ I'm a professional with business, design and technology knowledge in omnichannel
 
 I’m a licensed architect with 10 years of experience in project design, 3D modeling and visualization for healthcare, education, residential and commercial in Brazil, Europe and USA.
 
-My passion for Yoga led me to become an international business development manager for the leading European Yoga institution Yoga Planet School, where I lead and coordinate a cross-functional team of marketing, copywriting, UX/UI, web developement. In order to solve problems in-house and gain a better understanding of the world of digital services, I have recently completed a full-stack web development bootcamp.
+My passion for Yoga led me to become the general manager of the leading European Yoga institution Yoga Planet School, an organization that provides training and education for yoga teachers in over 40 cities across Europe. I have successfully fulfilled multiple roles, including product manager, business developer and digital strategist, and remotely led an asynchronous cross-functional team of marketing, copywriting, UX/UI and web development professionals.
+In order to solve problems in-house and gain a better understanding of the world of digital services, I have recently completed a full-stack web development bootcamp.
 
 My mission is to create beautifully designed digital products that solve everyday problems, encourage good habits within their users, thus making a positive impact on society as a whole.
 
-That said, today I am open for Product Manager positions in the technology field where my physical & digital background can help strategize, diagnose and solve entire processes to achieve business goals.
+That said, today I am currently available for remote or hybrid positions within the Product area of the technology industry, where my physical & digital background can help strategize, diagnose and solve entire processes to achieve business goals.
 
-Please feel free to contact me at alessandro.esposito.brescia@gmail.com
+You can reach me at alessandro.esposito.brescia@gmail.com for any inquiries or opportunities.
 
-Studying: Product management, Project management, Agile, Scrum, Communication, Leadership  
+
+
+Studying: lean startup, project management, agile, scrum, communication, leadership, typescript.
   
 
 <br/>  
