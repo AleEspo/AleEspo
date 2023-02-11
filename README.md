@@ -9,22 +9,15 @@
 
 
 ### Glad to see you here!  
-I'm a professional with business, design and technology knowledge in omnichannel projects. 
+I'm a professional with a unique blend of business, design, and technology expertise, gained from working on omnichannel projects 
 
-I’m a licensed architect with 10 years of experience in project design, 3D modeling and visualization for healthcare, education, residential and commercial in Brazil, Europe and USA.
+I’m a licensed architect with 10 years of experience in project design, 3D modeling and visualization for healthcare, education, residential and commercial in Brazil, Europe and the USA.
 
-My passion for Yoga led me to become the general manager of the leading European Yoga institution Yoga Planet School, an organization that provides training and education for yoga teachers in over 40 cities across Europe. I have successfully fulfilled multiple roles, including product manager, business developer and digital strategist, and remotely led an asynchronous cross-functional team of marketing, copywriting, UX/UI and web development professionals.
-In order to solve problems in-house and gain a better understanding of the world of digital services, I have recently completed a full-stack web development bootcamp.
+Passionate about yoga, I served as the General Manager of Yoga Planet School, a leading yoga organization providing training in over 40 cities across Europe. In this role, I honed my skills in multiple areas, including product management, business development, and digital strategy, while leading a cross-functional team of marketing, copywriting, UX/UI, and web development professionals
 
-My mission is to create beautifully designed digital products that solve everyday problems, encourage good habits within their users, thus making a positive impact on society as a whole.
+With a full-stack web development certification under my belt, I am well-equipped to tackle problems and gain a deeper understanding of digital services. My mission is to create beautifully designed digital products that solve everyday problems and encourage good habits, ultimately making a positive impact on society.
 
-That said, today I am currently available for remote or hybrid positions within the Product area of the technology industry, where my physical & digital background can help strategize, diagnose and solve entire processes to achieve business goals.
-
-You can reach me at alessandro.esposito.brescia@gmail.com for any inquiries or opportunities.
-
-
-
-Studying: lean startup, project management, agile, scrum, communication, leadership, typescript.
+I am currently seeking product management positions within the technology industry, where my combination of physical and digital experience can help diagnose and solve processes to achieve business goals. Continuously learning and growing, I am currently studying lean startup, project management, agile, scrum, communication, leadership, and typescript. 
   
 
 <br/>  
